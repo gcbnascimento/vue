@@ -125,7 +125,7 @@
 
        remover(produto){
 
-         if(confirm('Deseja realmente excluir esse produto?')){
+         if(confirm('Deseja excluir esse produto?')){
            Produto.apagar(produto).then(resposta =>{
             this.listar()
             this.errors = []
