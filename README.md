@@ -1,5 +1,7 @@
 # produtos-front
 
+Consumindo API de produtos com VUE
+
 ## Project setup
 ```
 npm install
